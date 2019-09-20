@@ -38,4 +38,13 @@ for(index in 1:length(links_li)){
   Sys.sleep(1)
 }
 animals %>% write_csv("a-z-animals.csv")
-
+title <-
+page_title %>%
+  html_nodes('[class^="az-phobia-link"]') %>%
+  html_text()
+animal_name_df <- tibble(annimal_name = title) 
+animal_name_df %>% write_csv("animal_name.csv")
+animals_df <- read_csv(file = "a-z-animals.csv")
+animal_name_df <- read_csv(file = "animal_name.csv" )
+a_z_animals_df <- cbind(animal_name_df, animals_df)
+a_z_animals_df %>% write_csv("a-z-animal_name.csv")
