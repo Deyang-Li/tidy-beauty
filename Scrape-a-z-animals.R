@@ -45,7 +45,10 @@ page_title %>%
 animal_name_df <- tibble(Name = title) 
 animal_name_df %>% write_csv("animal_name.csv")
 animals_df <- read_csv(file = "a-z-animals.csv")
-animal_name_df <- read_csv(file = "animal_name.csv" ) %>% rename(Index = index)
-animal_name_df
-a_z_animals_df <- cbind(animal_name_df, animals_df)
-a_z_animals_df %>% write_csv("a-z-animal_name.csv")
+animals_df <- read_csv(file = "a-z-animals.csv") %>% 
+  rename(Index = index)
+animal_name_df <- read_csv(file = "animal_name.csv" )
+animal_name <- as.matrix(animal_name_df)
+animal_name <- as.vector(animal_name)
+animals_df %>% add_column(Name = animal_name, .after = 1)
+animals_df %>% write_csv("a-z-animal_name.csv")
