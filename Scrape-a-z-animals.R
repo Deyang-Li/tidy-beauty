@@ -42,9 +42,10 @@ title <-
 page_title %>%
   html_nodes('[class^="az-phobia-link"]') %>%
   html_text()
-animal_name_df <- tibble(annimal_name = title) 
+animal_name_df <- tibble(Name = title) 
 animal_name_df %>% write_csv("animal_name.csv")
 animals_df <- read_csv(file = "a-z-animals.csv")
-animal_name_df <- read_csv(file = "animal_name.csv" )
+animal_name_df <- read_csv(file = "animal_name.csv" ) %>% rename(Index = index)
+animal_name_df
 a_z_animals_df <- cbind(animal_name_df, animals_df)
 a_z_animals_df %>% write_csv("a-z-animal_name.csv")
