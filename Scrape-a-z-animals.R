@@ -50,5 +50,5 @@ animals_df <- read_csv(file = "a-z-animals.csv") %>%
 animal_name_df <- read_csv(file = "animal_name.csv" )
 animal_name <- as.matrix(animal_name_df)
 animal_name <- as.vector(animal_name)
-animals_df %>% add_column(Name = animal_name, .after = 1)
-animals_df %>% write_csv("a-z-animal_name.csv")
+a_z_annimals <- add_column(animals_df, Name = animal_name, .after = 1)
+a_z_annimals %>% write_csv("a-z-animal_name.csv")
