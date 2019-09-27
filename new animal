@@ -18,5 +18,3 @@ page_title %>%
   html_nodes("td a") %>%
   html_attr("href")
 
-animal_df <- tibble(Index = index,
-             Title = table_title)
