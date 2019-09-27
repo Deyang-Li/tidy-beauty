@@ -1,0 +1,22 @@
+library(tidyverse)
+library(purrr)
+library(glue) 
+library(rvest) 
+
+url_titles <- "http://earthsendangered.com/list.asp"
+page_title <- read_html(url_titles)
+
+page_title %>% glimpse()
+
+page_title %>% html_structure()
+
+table_title <- page_title %>%
+  html_nodes("td a") %>%
+  html_text()
+
+page_title %>%
+  html_nodes("td a") %>%
+  html_attr("href")
+
+animal_df <- tibble(Index = index,
+             Title = table_title)
