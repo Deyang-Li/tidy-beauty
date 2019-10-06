@@ -1,10 +1,10 @@
-index,Scientific Name:,Other Names and/or Listed subspecies:,Group:,Status/Date Listed as Endangered:,Area(s) Where Listed As Endangered:
-1,Delphinapterus leucas,White Whale,Mammals,NT-IUCN: 2008,"Asia, Europe, North America (including United States), Oceanic"
-2,Balaenoptera musculus,"3 subspecies endangered: Northern Blue Whale (Balaenoptera musculus musculus), Southern Blue Whale (Balaenoptera musculus intermedia), Pygmy Blue Whale (Balaenoptera musculus brevicauda)",Mammals,"EN-IUCN: 2008EN-US FWS: June 2, 1970",Oceans
-3,Balaenoptera physalus,Common Rorqual,Mammals,"EN-US FWS: June 2, 1970CR-IUCN: 2008",Oceans
-4,Cystophora cristata,NA,Mammals,VU-IUCN: 2008,"Asia, Central America, Europe, North America, Oceanic, South America"
-5,Megaptera novaeangliae,NA,Mammals,"EN-US FWS: June 2, 1970",Oceans
-6,Sousa chinensis,Chinese White Dolphin,Mammals,NT-IUCN: 2008,"Africa, Asia, Australia, Middle East, Oceanic, South America"
-7,Balaenoptera borealis,"Coalfish Whale, Pollack Whale, Rudophi's Rorqual",Mammals,"EN-US FWS: June 2, 1970CR-IUCN: 2008",Oceans
-8,Balaena australis,NA,Mammals,"EN-US FWS: June 2, 1970",Oceans
-9,Physeter macrocephalus,"Cachelot, Pot Whale, Spermacet Whale, Physeter catodon",Mammals,"VU-IUCN: 2008EN-US FWS: June 2, 1970",Oceans
+index,Common Name,Endangered Animals of Area,Scientific Name:,Other Names and/or Listed subspecies:,Group:,Status/Date Listed as Endangered:,Area(s) Where Listed As Endangered:
+1,Beluga,Endangered Mammals of Antarctica,Delphinapterus leucas,White Whale,Mammals,NT-IUCN: 2008,"Asia, Europe, North America (including United States), Oceanic"
+2,Blue Whale,Endangered Mammals of Antarctica,Balaenoptera musculus,"3 subspecies endangered: Northern Blue Whale (Balaenoptera musculus musculus), Southern Blue Whale (Balaenoptera musculus intermedia), Pygmy Blue Whale (Balaenoptera musculus brevicauda)",Mammals,"EN-IUCN: 2008EN-US FWS: June 2, 1970",Oceans
+3,Finback Whale,Endangered Mammals of Antarctica,Balaenoptera physalus,Common Rorqual,Mammals,"EN-US FWS: June 2, 1970CR-IUCN: 2008",Oceans
+4,Hooded Seal,Endangered Mammals of Antarctica,Cystophora cristata,NA,Mammals,VU-IUCN: 2008,"Asia, Central America, Europe, North America, Oceanic, South America"
+5,Humpback Whale,Endangered Mammals of Antarctica,Megaptera novaeangliae,NA,Mammals,"EN-US FWS: June 2, 1970",Oceans
+6,Indo-pacific Hump-backed Dolphin,Endangered Mammals of Antarctica,Sousa chinensis,Chinese White Dolphin,Mammals,NT-IUCN: 2008,"Africa, Asia, Australia, Middle East, Oceanic, South America"
+7,Sei Whale,Endangered Mammals of Antarctica,Balaenoptera borealis,"Coalfish Whale, Pollack Whale, Rudophi's Rorqual",Mammals,"EN-US FWS: June 2, 1970CR-IUCN: 2008",Oceans
+8,Southern Right Whale,Endangered Mammals of Antarctica,Balaena australis,NA,Mammals,"EN-US FWS: June 2, 1970",Oceans
+9,Sperm Whale,Endangered Mammals of Antarctica,Physeter macrocephalus,"Cachelot, Pot Whale, Spermacet Whale, Physeter catodon",Mammals,"VU-IUCN: 2008EN-US FWS: June 2, 1970",Oceans

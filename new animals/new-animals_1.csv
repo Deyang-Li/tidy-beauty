@@ -1,51 +1,254 @@
-index,Scientific Name:,Other Names and/or Listed subspecies:,Group:,Status/Date Listed as Endangered:,Area(s) Where Listed As Endangered:
-1,Cephalophus spadix,Minde,Mammals,EN-IUCN: 2008,Tanzania
-2,Surdisorex norae,Aberdare Shrew,Mammals,VU-IUCN: 2008,Kenya
-3,Addax nasomaculatus,NA,Mammals,"CR-IUCN: 2008EN-US FWS: September 2, 2005",North Africa
-4,Cephalophus adersi,NA,Mammals,CR-IUCN: 2008,"Kenya, Tanzania"
-5,Hipposideros marisae,NA,Mammals,VU-IUCN: 2008,"Cote d'Ivoire, Guinea, Liberia"
-6,Loxodonta africana,Loxodonta cyclotis,Mammals,NT-IUCN: 2008,Africa
-7,Caracal aurata,Profelis aurata,Mammals,NT-IUCN: 2008,Africa
-8,Panthera leo,NA,Mammals,VU-IUCN: 2008,"Africa, Asia"
-9,Phataginus tricuspis,"Manis tricuspis, Three-cusped Pangolin, Tree Pangolin",Mammals,NT-IUCN: 2008,"Angola, Benin, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of Congo (Zaire), Equatorial Guinea, Gabon, Ghana, Kenya, Liberia, Nigeria, Republic of Congo, Rwanda, Sierra Leone, Sudan, Tanzania, Togo, Uganda, Zambia"
-10,Equus africanus,"Nubian Wild Ass (Equus africanus africanus), Somali Wild Ass (Equus africanus somaliensis)",Mammals,"EN-US FWS: June 14, 1976CR-IUCN: 2008","Ethiopia, Somalia, Sudan"
-11,Lycaon pictus,"Cape Hunting Dog, African Painted Wolf, Painted Hunting Dog",Mammals,"EN-US FWS: January 23, 1984EN-IUCN: 2008",Sub-saharan Africa
-12,Hapalemur alaotrensis,"Bandro, Lac Alaotra Bamboo Lemur",Mammals,"EN-US FWS: June 2, 1970CR-IUCN: 2008",Malagasy Republic (Madagascar)
-13,Pteropus aldabrensis,Pteropus seychellensis ssp. aldabrensis,Mammals,VU-IUCN: 2008,Indian Ocean (Seychelles)
-14,Crocidura hispida,NA,Mammals,VU-IUCN: 2008,"Cote d'Ivoire, Ghana, Guinea, Nigeria"
-15,Epomophorus angolensis,NA,Mammals,NT-IUCN: 2008,"Angola, Namibia"
-16,Lepilemur ankaranensis,NA,Mammals,"EN-US FWS: June 2, 1970EN-IUCN: 2008",Madagascar
-17,Crocidura ansellorum,NA,Mammals,EN-IUCN: 2008,Zambia
-18,Lepilemur aeeclis,NA,Mammals,"EN-US FWS: June 2, 1970",Malagasy Republic (Madagascar)
-19,Limnogale mergulus,NA,Mammals,VU-IUCN: 2008,Madagascar
-20,Carpitalpa arendsi,NA,Mammals,VU-IUCN: 2008,"Mozambique, Zimbabwe"
-21,Sylvisorex morio,Mt. Cameroon Forest Shrew,Mammals,EN-IUCN: 2008,"Cameroon, Kenya"
-22,Avahi laniger,NA,Mammals,"EN-US FWS: June 2, 1970",Malagasy Republic (Madagascar)
-23,Mastomys awashensis,Awash Mastomys,Mammals,VU-IUCN: 2008,Ethiopia
-24,Daubentonia madagascariensis,NA,Mammals,"NT-IUCN: 2008EN-US FWS: June 2, 1970",Malagasy Republic (Madagascar)
-25,Myosorex babaulti,NA,Mammals,NT-IUCN: 2008,"Burundi, Democratic Republic of Congo (Zaire), Uganda"
-26,Lepilemur dorsalis,NA,Mammals,"EN-US FWS: June 2, 1970",Madagascar
-27,Hylomyscus baeri,Baer's Hylomyscus,Mammals,EN-IUCN: 2008,"Cote d'Ivoire, Ghana, Sierra Leone"
-28,Crocidura baileyi,NA,Mammals,EN-IUCN: 2008,Ethiopia
-29,Chlorocebus djamdjamensis,"Bale Mountains Grivet, Djam-djam, Cercopithecus aethiops ssp. djamdjamensis",Mammals,VU-IUCN: 2008,Ethiopia
-30,Crocidura bottegoides,NA,Mammals,EN-IUCN: 2008,Ethiopia
-31,Macaca sylvanus,Barbary Ape,Mammals,EN-IUCN: 2008,"Algeria, Gibraltar, Morocco"
-32,Leptailurus serval constantina,Felis serval constantina,Mammals,"EN-US FWS: June 2, 1970",Algeria
-33,Ammotragus lervia,"Aoudad, Uaddan",Mammals,VU-IUCN: 2008,"Africa, Middle East"
-34,Otomys barbouri,NA,Mammals,EN-IUCN: 2008,"Kenya, Uganda"
-35,Dorcatragus megalotis,NA,Mammals,VU-IUCN: 2008,"Ethiopia, Somalia"
-36,Oryx beisa,Oryx gazella ssp. beisa,Mammals,NT-IUCN: 2008,"Djibouti, Ethiopia, Kenya, Somalia, Sudan, Tanzania"
-37,Avahi cleesei,John Cleese's Avahi,Mammals,EN-IUCN: 2008,Madagascar
-38,Tachyoryctes macrocephalus,NA,Mammals,EN-IUCN: 2008,Ethiopia
-39,Sylvisorex isabellae,Isabella Shrew,Mammals,EN-IUCN: 2008,Equatorial Guinea
-40,Rhynchocyon petersi,"Black And Rufous Sengi, Zanj Elephant Shrew",Mammals,VU-IUCN: 2008,"Kenya, Tanzania"
-41,Colobus satanas,NA,Mammals,"EN-US FWS: October 19, 1976VU-IUCN: 2008","Cameroon, Equatorial Guinea, Gabon, Republic of Congo"
-42,Lophocebus aterrimus,Cercocebus albigena ssp. aterrimus,Mammals,NT-IUCN: 2008,"Angola, Democratic Republic of Congo (Zaire)"
-43,Eulemur macaco,NA,Mammals,VU-IUCN: 2008,Madagascar
-44,Diceros bicornis,"4 subspecies endangered: South-central B. Rhinoceros (Diceros bicornis minor), South-western B. Rhinoceros (Diceros bicornis bicornis), E. African B. Rhinoceros (Diceros bicornis michaeli), W. African B. Rhinoceros (Diceros bicornis longipes)",Mammals,"CR-IUCN: 2008EN-US FWS: July 14, 1980",Sub-saharan Africa
-45,Varecia variegata,NA,Mammals,"EN-US FWS: June 2, 1970CR-IUCN: 2008",Malagasy Republic (Madagascar)
-46,Aepyceros melampus petersi,NA,Mammals,"EN-US FWS: June 2, 1970","Angola, Namibia"
-47,Felis nigripes,Small-spotted Cat,Mammals,"EN-US FWS: June 14, 1976VU-IUCN: 2008",Southern Africa
-48,Arvicanthis blicki,NA,Mammals,NT-IUCN: 2008,Ethiopia
-49,Tragelaphus eurycerus,NA,Mammals,NT-IUCN: 2008,Africa
-50,Damaliscus pygargus dorcas,NA,Mammals,"EN-US FWS: June 14, 1976",South Africa
+index,Common Name,Endangered Animals of Area,Scientific Name:,Other Names and/or Listed subspecies:,Group:,Status/Date Listed as Endangered:,Area(s) Where Listed As Endangered:
+1,Abbott's Duiker,Endangered Mammals of Africa,Cephalophus spadix,Minde,Mammals,EN-IUCN: 2008,Tanzania
+2,Aberdare Mole Shrew,Endangered Mammals of Africa,Surdisorex norae,Aberdare Shrew,Mammals,VU-IUCN: 2008,Kenya
+3,Addax,Endangered Mammals of Africa,Addax nasomaculatus,NA,Mammals,"CR-IUCN: 2008EN-US FWS: September 2, 2005",North Africa
+4,Aders' Duiker,Endangered Mammals of Africa,Cephalophus adersi,NA,Mammals,CR-IUCN: 2008,"Kenya, Tanzania"
+5,Aellen's Roundleaf Bat,Endangered Mammals of Africa,Hipposideros marisae,NA,Mammals,VU-IUCN: 2008,"Cote d'Ivoire, Guinea, Liberia"
+6,African Elephant,Endangered Mammals of Africa,Loxodonta africana,Loxodonta cyclotis,Mammals,NT-IUCN: 2008,Africa
+7,African Golden Cat,Endangered Mammals of Africa,Caracal aurata,Profelis aurata,Mammals,NT-IUCN: 2008,Africa
+8,African Lion,Endangered Mammals of Africa,Panthera leo,NA,Mammals,VU-IUCN: 2008,"Africa, Asia"
+9,African White-bellied Pangolin,Endangered Mammals of Africa,Phataginus tricuspis,"Manis tricuspis, Three-cusped Pangolin, Tree Pangolin",Mammals,NT-IUCN: 2008,"Angola, Benin, Cameroon, Central African Republic, Cote d'Ivoire, Democratic Republic of Congo (Zaire), Equatorial Guinea, Gabon, Ghana, Kenya, Liberia, Nigeria, Republic of Congo, Rwanda, Sierra Leone, Sudan, Tanzania, Togo, Uganda, Zambia"
+10,African Wild Ass,Endangered Mammals of Africa,Equus africanus,"Nubian Wild Ass (Equus africanus africanus), Somali Wild Ass (Equus africanus somaliensis)",Mammals,"EN-US FWS: June 14, 1976CR-IUCN: 2008","Ethiopia, Somalia, Sudan"
+11,African Wild Dog,Endangered Mammals of Africa,Lycaon pictus,"Cape Hunting Dog, African Painted Wolf, Painted Hunting Dog",Mammals,"EN-US FWS: January 23, 1984EN-IUCN: 2008",Sub-saharan Africa
+12,Alaotran Gentle Lemur,Endangered Mammals of Africa,Hapalemur alaotrensis,"Bandro, Lac Alaotra Bamboo Lemur",Mammals,"EN-US FWS: June 2, 1970CR-IUCN: 2008",Malagasy Republic (Madagascar)
+13,Aldabra Flying-fox,Endangered Mammals of Africa,Pteropus aldabrensis,Pteropus seychellensis ssp. aldabrensis,Mammals,VU-IUCN: 2008,Indian Ocean (Seychelles)
+14,Andaman Spiny Shrew,Endangered Mammals of Africa,Crocidura hispida,NA,Mammals,VU-IUCN: 2008,"Cote d'Ivoire, Ghana, Guinea, Nigeria"
+15,Angolan Epauletted Fruit Bat,Endangered Mammals of Africa,Epomophorus angolensis,NA,Mammals,NT-IUCN: 2008,"Angola, Namibia"
+16,Ankarana Sportive Lemur,Endangered Mammals of Africa,Lepilemur ankaranensis,NA,Mammals,"EN-US FWS: June 2, 1970EN-IUCN: 2008",Madagascar
+17,Ansell's Shrew,Endangered Mammals of Africa,Crocidura ansellorum,NA,Mammals,EN-IUCN: 2008,Zambia
+18,Antafia Sportive Lemur,Endangered Mammals of Africa,Lepilemur aeeclis,NA,Mammals,"EN-US FWS: June 2, 1970",Malagasy Republic (Madagascar)
+19,Aquatic Tenrec,Endangered Mammals of Africa,Limnogale mergulus,NA,Mammals,VU-IUCN: 2008,Madagascar
+20,Arend's Golden Mole,Endangered Mammals of Africa,Carpitalpa arendsi,NA,Mammals,VU-IUCN: 2008,"Mozambique, Zimbabwe"
+21,Arrogant Shrew,Endangered Mammals of Africa,Sylvisorex morio,Mt. Cameroon Forest Shrew,Mammals,EN-IUCN: 2008,"Cameroon, Kenya"
+22,Avahi,Endangered Mammals of Africa,Avahi laniger,NA,Mammals,"EN-US FWS: June 2, 1970",Malagasy Republic (Madagascar)
+23,Awash Multimammate Mouse,Endangered Mammals of Africa,Mastomys awashensis,Awash Mastomys,Mammals,VU-IUCN: 2008,Ethiopia
+24,Aye-aye,Endangered Mammals of Africa,Daubentonia madagascariensis,NA,Mammals,"NT-IUCN: 2008EN-US FWS: June 2, 1970",Malagasy Republic (Madagascar)
+25,Babault's Mouse Shrew,Endangered Mammals of Africa,Myosorex babaulti,NA,Mammals,NT-IUCN: 2008,"Burundi, Democratic Republic of Congo (Zaire), Uganda"
+26,Back-striped Sportive Lemur,Endangered Mammals of Africa,Lepilemur dorsalis,NA,Mammals,"EN-US FWS: June 2, 1970",Madagascar
+27,Baer's Wood Mouse,Endangered Mammals of Africa,Hylomyscus baeri,Baer's Hylomyscus,Mammals,EN-IUCN: 2008,"Cote d'Ivoire, Ghana, Sierra Leone"
+28,Bailey's Shrew,Endangered Mammals of Africa,Crocidura baileyi,NA,Mammals,EN-IUCN: 2008,Ethiopia
+29,Bale Monkey,Endangered Mammals of Africa,Chlorocebus djamdjamensis,"Bale Mountains Grivet, Djam-djam, Cercopithecus aethiops ssp. djamdjamensis",Mammals,VU-IUCN: 2008,Ethiopia
+30,Bale Shrew,Endangered Mammals of Africa,Crocidura bottegoides,NA,Mammals,EN-IUCN: 2008,Ethiopia
+31,Barbary Macaque,Endangered Mammals of Africa,Macaca sylvanus,Barbary Ape,Mammals,EN-IUCN: 2008,"Algeria, Gibraltar, Morocco"
+32,Barbary Serval,Endangered Mammals of Africa,Leptailurus serval constantina,Felis serval constantina,Mammals,"EN-US FWS: June 2, 1970",Algeria
+33,Barbary Sheep,Endangered Mammals of Africa,Ammotragus lervia,"Aoudad, Uaddan",Mammals,VU-IUCN: 2008,"Africa, Middle East"
+34,Barbour's Vlei Rat,Endangered Mammals of Africa,Otomys barbouri,NA,Mammals,EN-IUCN: 2008,"Kenya, Uganda"
+35,Beira Antelope,Endangered Mammals of Africa,Dorcatragus megalotis,NA,Mammals,VU-IUCN: 2008,"Ethiopia, Somalia"
+36,Beisa Oryx,Endangered Mammals of Africa,Oryx beisa,Oryx gazella ssp. beisa,Mammals,NT-IUCN: 2008,"Djibouti, Ethiopia, Kenya, Somalia, Sudan, Tanzania"
+37,Bemaraha Woolly Lemur,Endangered Mammals of Africa,Avahi cleesei,John Cleese's Avahi,Mammals,EN-IUCN: 2008,Madagascar
+38,Big-headed Mole Rat,Endangered Mammals of Africa,Tachyoryctes macrocephalus,NA,Mammals,EN-IUCN: 2008,Ethiopia
+39,Bioko Forest Shrew,Endangered Mammals of Africa,Sylvisorex isabellae,Isabella Shrew,Mammals,EN-IUCN: 2008,Equatorial Guinea
+40,Black And Rufous Elephant Shrew,Endangered Mammals of Africa,Rhynchocyon petersi,"Black And Rufous Sengi, Zanj Elephant Shrew",Mammals,VU-IUCN: 2008,"Kenya, Tanzania"
+41,Black Colobus Monkey,Endangered Mammals of Africa,Colobus satanas,NA,Mammals,"EN-US FWS: October 19, 1976VU-IUCN: 2008","Cameroon, Equatorial Guinea, Gabon, Republic of Congo"
+42,Black Crested Mangabey,Endangered Mammals of Africa,Lophocebus aterrimus,Cercocebus albigena ssp. aterrimus,Mammals,NT-IUCN: 2008,"Angola, Democratic Republic of Congo (Zaire)"
+43,Black Lemur,Endangered Mammals of Africa,Eulemur macaco,NA,Mammals,VU-IUCN: 2008,Madagascar
+44,Black Rhinoceros,Endangered Mammals of Africa,Diceros bicornis,"4 subspecies endangered: South-central B. Rhinoceros (Diceros bicornis minor), South-western B. Rhinoceros (Diceros bicornis bicornis), E. African B. Rhinoceros (Diceros bicornis michaeli), W. African B. Rhinoceros (Diceros bicornis longipes)",Mammals,"CR-IUCN: 2008EN-US FWS: July 14, 1980",Sub-saharan Africa
+45,Black-and-white Ruffed Lemur,Endangered Mammals of Africa,Varecia variegata,NA,Mammals,"EN-US FWS: June 2, 1970CR-IUCN: 2008",Malagasy Republic (Madagascar)
+46,Black-faced Impala,Endangered Mammals of Africa,Aepyceros melampus petersi,NA,Mammals,"EN-US FWS: June 2, 1970","Angola, Namibia"
+47,Black-footed Cat,Endangered Mammals of Africa,Felis nigripes,Small-spotted Cat,Mammals,"EN-US FWS: June 14, 1976VU-IUCN: 2008",Southern Africa
+48,Blick's Grass Rat,Endangered Mammals of Africa,Arvicanthis blicki,NA,Mammals,NT-IUCN: 2008,Ethiopia
+49,Bongo,Endangered Mammals of Africa,Tragelaphus eurycerus,NA,Mammals,NT-IUCN: 2008,Africa
+50,Bontebok,Endangered Mammals of Africa,Damaliscus pygargus dorcas,NA,Mammals,"EN-US FWS: June 14, 1976",South Africa
+51,Bourlon's Genet,Endangered Mammals of Africa,Genetta bourloni,NA,Mammals,NT-IUCN: 2008,"Cote d'Ivoire, Guinea, Liberia, Sierra Leone"
+52,Broad-striped Mongoose,Endangered Mammals of Africa,Galidictis fasciata,"Malagasy Broad-striped Mongoose, Broad-striped Malagasy Mongoose",Mammals,NT-IUCN: 2008,Madagascar
+53,Brown Hyena,Endangered Mammals of Africa,Parahyaena brunnea,Hyaena brunnea,Mammals,"NT-IUCN: 2008EN-US FWS: June 2, 1970",Southern Africa
+54,Brown-tailed Mongoose,Endangered Mammals of Africa,Salanoia concolor,"Malagasy Brown-tailed Mongoose, Salano",Mammals,VU-IUCN: 2008,Madagascar
+55,Buettikofer's Shrew,Endangered Mammals of Africa,Crocidura buettikoferi,NA,Mammals,NT-IUCN: 2008,"Cote d'Ivoire, Ghana, Guinea, Liberia, Nigeria"
+56,Burton's Vlei Rat,Endangered Mammals of Africa,Otomys burtoni,NA,Mammals,EN-IUCN: 2008,Cameroon
+57,Buxton's Jird,Endangered Mammals of Africa,Meriones sacramenti,NA,Mammals,VU-IUCN: 2008,"Egypt, Israel, Palestine"
+58,Cameroon Clawless Otter,Endangered Mammals of Africa,Aonyx congicus congica,Aonyx congicus microdon,Mammals,"EN-US FWS: June 2, 1970","Cameroon, Nigeria"
+59,Cameroon Climbing Mouse,Endangered Mammals of Africa,Dendromus oreas,NA,Mammals,VU-IUCN: 2008,Cameroon
+60,Cameroon Soft-furred Mouse,Endangered Mammals of Africa,Praomys morio,Cameroon Praomys,Mammals,EN-IUCN: 2008,"Cameroon, Equatorial Guinea"
+61,Cameroonian Forest Shrew,Endangered Mammals of Africa,Sylvisorex camerunensis,NA,Mammals,VU-IUCN: 2008,"Cameroon, Nigeria"
+62,Charming Thicket Rat,Endangered Mammals of Africa,Thamnomys venustus,NA,Mammals,VU-IUCN: 2008,"Democratic Republic of Congo (Zaire), Uganda"
+63,Checkered Sengi,Endangered Mammals of Africa,Rhynchocyon cirnei,Checkered Elephant Shrew,Mammals,NT-IUCN: 2008,"Democratic Republic of Congo (Zaire), Malawi, Mozambique, Tanzania, Uganda, Zambia"
+64,Cheetah,Endangered Mammals of Africa,Acinonyx jubatus,NA,Mammals,"EN-US FWS: June 2, 1970VU-IUCN: 2008",Africa to India
+65,Chimpanzee,Endangered Mammals of Africa,Pan troglodytes,NA,Mammals,"EN-US FWS: October 19, 1976EN-IUCN: 2008",Africa
+66,Clarke's Gazelle,Endangered Mammals of Africa,Ammodorcas clarkei,Dibatag,Mammals,"EN-US FWS: June 2, 1970VU-IUCN: 2008","Ethiopia, Somalia"
+67,Collared Brown Lemur,Endangered Mammals of Africa,Eulemur collaris,"Eulemur fulvus ssp. collaris, Red-collared Brown Lemur",Mammals,VU-IUCN: 2008,Madagascar
+68,Commerson's Leaf-nosed Bat,Endangered Mammals of Africa,Hipposideros commersoni,Commerson's Roundleaf Bat,Mammals,NT-IUCN: 2008,Madagascar
+69,Common Bentwing Bat,Endangered Mammals of Africa,Miniopterus schreibersii,"Schreiber's Bent-winged Bat, Schreiber's Long-fingered Bat",Mammals,NT-IUCN: 2008,"Africa, Asia, Europe, Middle East"
+70,Common Brown Lemur,Endangered Mammals of Africa,Eulemur fulvus,"Eulemur fulvus ssp. fulvus, Eulemur fulvus ssp. mayottensis",Mammals,NT-IUCN: 2008,"Indian Ocean (Comoros), Madagascar, Mayotte"
+71,Common Hippopotamus,Endangered Mammals of Africa,Hippopotamus amphibius,NA,Mammals,VU-IUCN: 2008,Africa
+72,Comoro Black Flying Fox,Endangered Mammals of Africa,Pteropus livingstonii,Livingstone's Flying Fox,Mammals,EN-IUCN: 2008,Indian Ocean (Comoros)
+73,Comoro Rousette,Endangered Mammals of Africa,Rousettus obliviosus,NA,Mammals,VU-IUCN: 2008,Indian Ocean (Comoros)
+74,Congo Shrew,Endangered Mammals of Africa,Congosorex phillipsorum,NA,Mammals,CR-IUCN: 2008,Tanzania
+75,Coquerel's Sifaka,Endangered Mammals of Africa,Propithecus coquereli,"Propithecus verreauxi coquereli (formerly), Crowned Sifaka",Mammals,"EN-US FWS: December 2, 1970EN-IUCN: 2008",Madagascar
+76,Crossley's Dwarf Lemur,Endangered Mammals of Africa,Cheirogaleus crossleyi,NA,Mammals,"EN-US FWS: June 2, 1970",Madagascar
+77,Crowned Lemur,Endangered Mammals of Africa,Eulemur coronatus,NA,Mammals,VU-IUCN: 2008,Madagascar
+78,Crowned Sifaka,Endangered Mammals of Africa,Propithecus coronatus,Propithecus verreauxi ssp. coronatus,Mammals,EN-IUCN: 2008,Madagascar
+79,Cuvier's Gazelle,Endangered Mammals of Africa,Gazella cuvieri,"Mountain Gazelle, Edmi",Mammals,"EN-US FWS: June 2, 1970EN-IUCN: 2008","Algeria, Morocco, Tunisia"
+80,Dama Gazelle,Endangered Mammals of Africa,Nanger dama,"Also called Addra Gazelle or Nanger dama. 2 subspecies endangered: Rio de Oro Dama Gazelle (Nanger dama lozanoi), Mhorr Gazelle (Nanger dama mhorr), Gazella dama (formerly)",Mammals,"EN-US FWS: June 2, 1970CR-IUCN: 2016",Africa
+81,Dark-brown Serotine,Endangered Mammals of Africa,Neoromicia brunnea,"Brown Pipistrelle Bat, Dark-brown Pipistrelle Bat, Eptesicus brunneus, Pipistrellus brunneus, Vesperugo brunneus",Mammals,NT-IUCN: 2008,"Cameroon, Cote d'Ivoire, Equatorial Guinea, Gabon, Ghana, Liberia, Nigeria, Republic of Congo, Sierra Leone"
+82,De Winton's Golden Mole,Endangered Mammals of Africa,Cryptochloris wintoni,NA,Mammals,CR-IUCN: 2008,South Africa
+83,Delectable Soft-furred Mouse,Endangered Mammals of Africa,Praomys delectorum,"East African Praomys, P. taitae",Mammals,NT-IUCN: 2008,"Kenya, Malawi, Mozambique, Tanzania, Zambia"
+84,Desperate Shrew,Endangered Mammals of Africa,Crocidura desperata,NA,Mammals,EN-IUCN: 2008,Tanzania
+85,Diademed Sifaka,Endangered Mammals of Africa,Propithecus diadema,NA,Mammals,"EN-US FWS: December 2, 1970EN-IUCN: 2008",Madagascar
+86,Diana Monkey,Endangered Mammals of Africa,Cercopithecus diana,"Roloway Monkey, Diana Gueno",Mammals,"EN-US FWS: October 19, 1976VU-IUCN: 2008",Coastal West Africa
+87,Dieterlen's Brush-furred Mouse,Endangered Mammals of Africa,Lophuromys dieterleni,Mt. Oku Brush-furred Rat,Mammals,EN-IUCN: 2008,Cameroon
+88,Dorcas Gazelle,Endangered Mammals of Africa,Gazella dorcas,"3 subspecies endangered: Saudi Arabian Gazelle (Gazella dorcas saudiya), Pelzeln's Gazelle (Gazella dorcas pelzelni), Moroccan Gazelle (Gazella dorcas massaesyla)",Mammals,"EN-US FWS: G. d. saudiya - June 25, 1979, G. d. pelzelni - June 25, 1979, G. d. massaesyla - June 2, 1970VU-IUCN: 2008","Algeria, Arabian Peninsula, Iraq, Israel, Jordan, Morocco, Somalia, Syria, Tunisia"
+89,Drill,Endangered Mammals of Africa,Mandrillus leucophaeus,Papio leucophaeus,Mammals,"EN-US FWS: October 19, 1976EN-IUCN: 2008",Equatorial West Africa
+90,Dryad Monkey,Endangered Mammals of Africa,Cercopithecus dryas,"Cercopithecus salongo, Dryas Guenon, Dryas Monkey, Salonga Guenon",Mammals,CR-IUCN: 2008,Democratic Republic of Congo (Zaire)
+91,Dugong,Endangered Mammals of Africa,Dugong dugon,Sea Cow,Mammals,"EN-US FWS: December 2, 1970VU-IUCN: 2008",East Africa to Southern Japan
+92,Duthie's Golden Mole,Endangered Mammals of Africa,Chlorotalpa duthieae,NA,Mammals,VU-IUCN: 2008,South Africa
+93,Eastern Gorilla,Endangered Mammals of Africa,Gorilla beringei,Mountain Gorilla,Mammals,EN-IUCN: 2008,"Democratic Republic of Congo (Zaire), Rwanda, Uganda"
+94,Eastern Rufous Mouse Lemur,Endangered Mammals of Africa,Microcebus rufus,NA,Mammals,"EN-US FWS: June 2, 1970",Madagascar
+95,Eisentraut's Mouse Shrew,Endangered Mammals of Africa,Myosorex eisentrauti,NA,Mammals,CR-IUCN: 2008,Equatorial Guinea
+96,Eisentraut's Striped Mouse,Endangered Mammals of Africa,Hybomys badius,"Cameroon Highland Hybomys, Hybomys eisentrauti, Eisentraut's Hybomys",Mammals,EN-IUCN: 2008,Cameroon
+97,Ethiopian Amphibious Rat,Endangered Mammals of Africa,Nilopegamys plumbeus,Ethiopian Water Mouse,Mammals,CR-IUCN: 2008,Ethiopia
+98,Ethiopian Wolf,Endangered Mammals of Africa,Canis simensis,"Simien Fox, Abyssinian Wolf, Red Jackal, Horse's Jackal",Mammals,"EN-US FWS: June 25, 1979EN-IUCN: 2011",Ethiopia
+99,Eurasian Otter,Endangered Mammals of Africa,Lutra lutra,"Lutra nippon, Common Otter, European River Otter, Old World Otter",Mammals,NT-IUCN: 2008,"Africa, Asia, Europe, Middle East"
+100,European Rabbit,Endangered Mammals of Africa,Oryctolagus cuniculus,Common Rabbit,Mammals,NT-IUCN: 2008,"Africa, Asia, Australia, Europe, North America (including United States), South America"
+101,Felten's Myotis,Endangered Mammals of Africa,Myotis punicus,Maghrebian Myotis,Mammals,NT-IUCN: 2008,"Algeria, Libya, Malta, Morocco, Tunisia"
+102,Fork-crowned Lemur,Endangered Mammals of Africa,Phaner furcifer,"4 subspecies endangered: Masoala Fork-crowned Lemur (P. f. furcifer), Amber Mountain Fork-crowned Lemur (P. f. electromontis), Pale Fork-crowned Lemur (P. f. pallescens), Pariente's (or Sambirano) Fork-crowned Lemur (P. f. parienti), Fork-marked lemur",Mammals,"VU-IUCN: 2008EN-US FWS: June 2, 1970",Madagascar
+103,Fossa,Endangered Mammals of Africa,Cryptoprocta ferox,NA,Mammals,VU-IUCN: 2008,Madagascar
+104,Four-toed Jerboa,Endangered Mammals of Africa,Allactaga tetradactyla,NA,Mammals,VU-IUCN: 2008,"Egypt, Libya"
+105,Gelada Baboon,Endangered Mammals of Africa,Theropithecus gelada,NA,Mammals,"T-US FWS: October 19, 1976",Ethiopia
+106,Gerenuk,Endangered Mammals of Africa,Litocranius walleri,NA,Mammals,NT-IUCN: 2008,"Djibouti, Ethiopia, Kenya, Somalia, Tanzania"
+107,Giant Golden Mole,Endangered Mammals of Africa,Chrysospalax trevelyani,NA,Mammals,EN-IUCN: 2008,South Africa
+108,Giant Ground Pangolin,Endangered Mammals of Africa,Smutsia gigantea,"Manis gigantea, Giant Pangolin",Mammals,NT-IUCN: 2008,Africa
+109,Giant Noctule Bat,Endangered Mammals of Africa,Nyctalus lasiopterus,NA,Mammals,NT-IUCN: 2008,"Africa, Asia, Europe, Middle East"
+110,Giant Sable Antelope,Endangered Mammals of Africa,Hippotragus niger variani,NA,Mammals,"EN-US FWS: June 2, 1970",Angola
+111,Giant Thicket Rat,Endangered Mammals of Africa,Grammomys gigas,NA,Mammals,EN-IUCN: 2008,Kenya
+112,Giant-striped Mongoose,Endangered Mammals of Africa,Galidictis grandidieri,"Grandidier's Mongoose, Grandidier's Vontsira",Mammals,EN-IUCN: 2008,Madagascar
+113,Golden Bamboo Lemur,Endangered Mammals of Africa,Hapalemur aureus,NA,Mammals,"EN-US FWS: June 2, 1970EN-IUCN: 2008",Malagasy Republic (Madagascar)
+114,Golden-crowned Sifaka,Endangered Mammals of Africa,Propithecus tattersalli,Tattersall's Sifaka,Mammals,"EN-US FWS: December 2, 1970EN-IUCN: 2008",Madagascar
+115,Golden-rumped Elephant Shrew,Endangered Mammals of Africa,Rhynchocyon chrysopygus,Golden-rumped Sengi,Mammals,EN-IUCN: 2008,Kenya
+116,Goodman's Mouse Lemur,Endangered Mammals of Africa,Microcebus lehilahytsara,NA,Mammals,"EN-US FWS: June 2, 1970",Madagascar
+117,Gray Bamboo Lemur,Endangered Mammals of Africa,Hapalemur griseus,"Eastern Lesser Bamboo Lemur, Gray Gentle Lemur, H. ranomafanensis",Mammals,"VU-IUCN: 2008EN-US FWS: June 2, 1970",Malagasy Republic (Madagascar)
+118,Gray Mouse Lemur,Endangered Mammals of Africa,Microcebus murinus,NA,Mammals,"EN-US FWS: June 2, 1970",Madagascar
+119,Greater Bamboo Lemur,Endangered Mammals of Africa,Prolemur simus,"Hapalemur simus, Broad-nosed Gentle Lemur",Mammals,CR-IUCN: 2008,Madagascar
+120,Greater Dwarf Lemur,Endangered Mammals of Africa,Cheirogaleus major,NA,Mammals,"EN-US FWS: June 2, 1970",Madagascar
+121,Greater Mascarene Flying Fox,Endangered Mammals of Africa,Pteropus niger,Mauritan Flying Fox,Mammals,EN-IUCN: 2008,Indian Ocean (Mauritius - Reunion Island)
+122,Grevy's Zebra,Endangered Mammals of Africa,Equus grevyi,NA,Mammals,EN-IUCN: 2008,"Ethiopia, Kenya"
+123,Guinea Baboon,Endangered Mammals of Africa,Papio papio,NA,Mammals,NT-IUCN: 2008,"Gambia, Guinea, Guinea-Bissau, Mali, Mauritania, Senegal"
+124,Guinean Horseshoe Bat,Endangered Mammals of Africa,Rhinolophus guineensis,NA,Mammals,VU-IUCN: 2008,"Cote d'Ivoire, Guinea, Liberia, Senegal, Sierra Leone"
+125,Gunning's Golden Mole,Endangered Mammals of Africa,Neamblysomus gunningi,Amblysomus gunningi,Mammals,EN-IUCN: 2008,South Africa
+126,Guramba Shrew,Endangered Mammals of Africa,Crocidura phaeura,NA,Mammals,EN-IUCN: 2008,Ethiopia
+127,Hairy-eared Dwarf Lemur,Endangered Mammals of Africa,Allocebus trichotis,Hairy-eared Mouse Lemur,Mammals,"EN-US FWS: June 2, 1970",Madagascar
+128,Hairy-tailed Tree Rat,Endangered Mammals of Africa,Brachytarsomys villosa,NA,Mammals,EN-IUCN: 2008,Madagascar
+129,Harenna Shrew,Endangered Mammals of Africa,Crocidura harenna,NA,Mammals,CR-IUCN: 2008,Ethiopia
+130,Hartebeest,Endangered Mammals of Africa,Alcelaphus buselaphus,"2 subspecies endangered: Swayne's Hartebeest (Alcelaphus buselaphus swaynei), Tora Hartebeest (Alcelaphus buselaphus tora)",Mammals,"EN-US FWS: A. b. swaynei - June 2, 1970, A. b. tora - June 25, 1979","Egypt, Ethiopia, Somalia, Sudan"
+131,Highveld Golden Mole,Endangered Mammals of Africa,Amblysomus septentrionalis,NA,Mammals,NT-IUCN: 2008,"South Africa, Swaziland"
+132,Hildegarde's Tomb Bat,Endangered Mammals of Africa,Taphozous hildegardeae,NA,Mammals,VU-IUCN: 2008,"Kenya, Tanzania"
+133,Himalayan Tahr,Endangered Mammals of Africa,Hemitragus jemlahicus,NA,Mammals,NT-IUCN: 2008,"China, India, Nepal, New Zealand, South Africa"
+134,Indo-pacific Hump-backed Dolphin,Endangered Mammals of Africa,Sousa chinensis,Chinese White Dolphin,Mammals,NT-IUCN: 2008,"Africa, Asia, Australia, Middle East, Oceanic, South America"
+135,Indri,Endangered Mammals of Africa,Indri Indri,NA,Mammals,"EN-US FWS: June 2, 1970EN-IUCN: 2008",Malagasy Republic (Madagascar)
+136,Jackson's Mongoose,Endangered Mammals of Africa,Bdeogale jacksoni,NA,Mammals,NT-IUCN: 2008,"Kenya, Tanzania, Uganda"
+137,Javan Rusa,Endangered Mammals of Africa,Rusa timorensis,"Javan Deer, Rusa Deer, Timor Deer, Cervus celebensis, C. hippelaphus, C. lepidus, C. moluccensis, C. peronii, C. russa, C. tavistocki, C. timorensis, C. tunjuc",Mammals,VU-IUCN: 2008,"Australia, Indian Ocean (Reunion), Indonesia, Mauritius, New Caledonia, New Zealand, Papua New Guinea, Timor-Leste"
+138,Jenkins' Shrew Tenrec,Endangered Mammals of Africa,Microgale jenkinsae,NA,Mammals,EN-IUCN: 2008,Madagascar
+139,Jentink's Duiker,Endangered Mammals of Africa,Cephalophus jentinki,NA,Mammals,"EN-US FWS: June 25, 1979EN-IUCN: 2008","Ivory Coast (Africa), Liberia, Sierra Leone"
+140,Johnston's Genet,Endangered Mammals of Africa,Genetta johnstoni,NA,Mammals,VU-IUCN: 2008,"Cote d'Ivoire, Ghana, Guinea, Liberia"
+141,Jolly's Mouse Lemur,Endangered Mammals of Africa,Microcebus jollyae,NA,Mammals,"EN-US FWS: June 2, 1970",Madagascar
+142,Kemp's Thicket Rat,Endangered Mammals of Africa,Thamnomys kempi,Thamnomys major,Mammals,VU-IUCN: 2008,"Burundi, Democratic Republic of Congo (Zaire), Rwanda"
+143,Kipunji,Endangered Mammals of Africa,Rungwecebus kipunji,"Highland Mangabey, Lophocebus kipunji",Mammals,CR-IUCN: 2008,Tanzania
+144,Kivu Long-haired Shrew,Endangered Mammals of Africa,Crocidura lanosa,Lemara Shrew,Mammals,EN-IUCN: 2008,"Democratic Republic of Congo (Zaire), Rwanda"
+145,L'hoest's Monkey,Endangered Mammals of Africa,Cercopithecus lhoesti,"L'Hoest's Guenon, Mountain Monkey",Mammals,"EN-US FWS: October 19, 1976VU-IUCN: 2008","Cameroon, Upper eastern Congo R. Basin"
+146,Large-eared Free-tailed Bat,Endangered Mammals of Africa,Otomops martiensseni,Otomops martiensseni ssp. icarus,Mammals,NT-IUCN: 2008,"Africa, Asia, Middle East"
+147,Leopard,Endangered Mammals of Africa,Panthera pardus,NA,Mammals,"NT-IUCN: 2008EN-US FWS: June 2, 1970","Africa, Asia, Middle East"
+148,Lesser Dwarf Lemur,Endangered Mammals of Africa,Cheirogaleus medius,"Western Fat-tailed Dwarf Lemur, Southern Flat-tailed Dwarf Lemur, C. adipicaudatus, Spiny Forest Dwarf Lemur",Mammals,"EN-US FWS: June 2, 1970",Madagascar
+149,Lesser Kudu,Endangered Mammals of Africa,Tragelaphus imberbis,NA,Mammals,NT-IUCN: 2008,"Ethiopia, Kenya, Somalia, Sudan, Tanzania, Uganda"
+150,Liberian Mongoose,Endangered Mammals of Africa,Liberiictis kuhni,NA,Mammals,VU-IUCN: 2008,"Cote d'Ivoire, Liberia"
+151,Long-fingered Bat,Endangered Mammals of Africa,Myotis capaccinii,NA,Mammals,VU-IUCN: 2008,"Africa, Asia, Europe, Middle East"
+152,Long-tailed Forest Shrew,Endangered Mammals of Africa,Myosorex longicaudatus,NA,Mammals,VU-IUCN: 2008,South Africa
+153,Maclaud's Horseshoe Bat,Endangered Mammals of Africa,Rhinolophus maclaudi,NA,Mammals,EN-IUCN: 2008,Guinea
+154,Madagascan Flying Fox,Endangered Mammals of Africa,Pteropus rufus,Madagascar Fruit Bat,Mammals,VU-IUCN: 2008,Madagascar
+155,Madagascan Fruit Bat,Endangered Mammals of Africa,Eidolon dupreanum,NA,Mammals,VU-IUCN: 2008,Madagascar
+156,Madame Berthe's Mouse Lemur,Endangered Mammals of Africa,Microcebus berthae,NA,Mammals,"EN-US FWS: June 2, 1970EN-IUCN: 2008",Madagascar
+157,Malagasy Giant Jumping Rat,Endangered Mammals of Africa,Hypogeomys antimena,"Votsovotsa, Malagasy Giant Rat",Mammals,EN-IUCN: 2008,Madagascar
+158,Mandrill,Endangered Mammals of Africa,Mandrillus sphinx,Papio sphinx,Mammals,"VU-IUCN: 2008EN-US FWS: October 19, 1976",Equatorial West Africa
+159,Marley's Golden Mole,Endangered Mammals of Africa,Amblysomus marleyi,NA,Mammals,EN-IUCN: 2008,South Africa
+160,Mediterranean Horseshoe Bat,Endangered Mammals of Africa,Rhinolophus euryale,NA,Mammals,NT-IUCN: 2008,"Albania, Algeria, Andorra, Armenia, Azerbaijan, Bosnia and Herzegovina, Bulgaria, Croatia, France, Georgia (Eurasia), Gibraltar, Greece, Hungary, Iran, Iraq, Israel, Italy, Jordan, Lebanon, Monaco, Montenegro, Morocco, Portugal, Republic of Macedonia, Romania, Russia, San Marino, Serbia, Slovakia, Slovenia, Spain, Syria, Tunisia, Turkey"
+161,Mediterranean Monk Seal,Endangered Mammals of Africa,Monachus monachus,NA,Mammals,"EN-US FWS: June 2, 1970CR-IUCN: 2008","Mediterranean Sea, Northwest African Coast and Black Sea"
+162,Mehely's Horseshoe Bat,Endangered Mammals of Africa,Rhinolophus mehelyi,NA,Mammals,VU-IUCN: 2008,"Africa, Asia, Europe, Middle East"
+163,Milne-Edward's Sifaka,Endangered Mammals of Africa,Propithecus edwardsi,"Milne-Edwards's Simpona, Propithecus holomelas",Mammals,"EN-US FWS: December 2, 1970EN-IUCN: 2008",Madagascar
+164,Milne-Edwards's Sportive Lemur,Endangered Mammals of Africa,Lepilemur edwardsi,Milne-Edwards' Weasel Lemur,Mammals,"EN-US FWS: June 2, 1970VU-IUCN: 2008",Madagascar
+165,Mittermeier's Mouse Lemur,Endangered Mammals of Africa,Microcebus mittermeieri,NA,Mammals,"EN-US FWS: June 2, 1970",Madagascar
+166,Mongoose Lemur,Endangered Mammals of Africa,Eulemur mongoz,NA,Mammals,VU-IUCN: 2008,"Indian Ocean (Comoros), Madagascar"
+167,Montane Mouse Shrew,Endangered Mammals of Africa,Myosorex blarina,NA,Mammals,EN-IUCN: 2008,"Democratic Republic of Congo (Zaire), Uganda"
+168,Moon Striped Mouse,Endangered Mammals of Africa,Hybomys lunaris,Ruwenzori Hybomys,Mammals,VU-IUCN: 2008,"Democratic Republic of Congo (Zaire), Uganda"
+169,Mountain Dwarf Galago,Endangered Mammals of Africa,Galagoides orinus,"Amani Dwarf Galago, Uluguru Bushbaby",Mammals,NT-IUCN: 2008,"Kenya, Tanzania"
+170,Mountain Nyala,Endangered Mammals of Africa,Tragelaphus buxtoni,NA,Mammals,EN-IUCN: 2008,Ethiopia
+171,Mountain Zebra,Endangered Mammals of Africa,Equus zebra,"Hartmann's Mountain Zebra, Cape Mountain Zebra, Equus zebra zebra",Mammals,"VU-IUCN: 2008EN-US FWS: June 14, 1976","Namibia, South Africa"
+172,Mt. Lefo Brush-furred Rat,Endangered Mammals of Africa,Lophuromys eisentrauti,NA,Mammals,EN-IUCN: 2008,Cameroon
+173,Nile Lechwe,Endangered Mammals of Africa,Kobus megaceros,Mrs. Gray's Lechwe,Mammals,EN-IUCN: 2008,"Ethiopia, Sudan"
+174,Nimba Otter Shrew,Endangered Mammals of Africa,Micropotamogale lamottei,Pygmy Otter-shrew,Mammals,EN-IUCN: 2008,"Cote d'Ivoire, Guinea, Liberia"
+175,Northern Rufous Mouse Lemur,Endangered Mammals of Africa,Microcebus tavaratra,"Tavaratra Mouse Lemur, Northern Brown Mouse Lemur",Mammals,"EN-US FWS: June 2, 1970EN-IUCN: 2008",Madagascar
+176,Northern Sportive Lemur,Endangered Mammals of Africa,Lepilemur septentrionalis,Sahafary Sportive Lemur,Mammals,"EN-US FWS: June 2, 1970CR-IUCN: 2008",Madagascar
+177,Nubian Ibex,Endangered Mammals of Africa,Capra nubiana,NA,Mammals,VU-IUCN: 2008,"Egypt, Israel, Jordan, Oman, Saudi Arabia, Sudan, Syria, Yemen"
+178,Okapi,Endangered Mammals of Africa,Okapia johnstoni,NA,Mammals,NT-IUCN: 2008,Democratic Republic of Congo (Zaire)
+179,Oku Mouse Shrew,Endangered Mammals of Africa,Myosorex okuensis,NA,Mammals,EN-IUCN: 2008,Cameroon
+180,Olive Colobus,Endangered Mammals of Africa,Procolobus verus,"Van Beneden's Colobus, Green Colobus",Mammals,NT-IUCN: 2008,"Benin, Cote d'Ivoire, Ghana, Guinea, Liberia, Nigeria, Sierra Leone, Togo"
+181,Owl-faced Monkey,Endangered Mammals of Africa,Cercopithecus hamlyni,"Hamlyn's Monkey, Owl-faced Guenon",Mammals,VU-IUCN: 2008,"Democratic Republic of Congo (Zaire), Rwanda"
+182,Pemba Flying Fox,Endangered Mammals of Africa,Pteropus voeltzkowi,NA,Mammals,VU-IUCN: 2008,Tanzania
+183,Perrier's Sifaka,Endangered Mammals of Africa,Propithecus perrieri,NA,Mammals,"EN-US FWS: December 2, 1970CR-IUCN: 2008",Madagascar
+184,Preuss' Red Colobus Monkey,Endangered Mammals of Africa,Procolobus preussi,"Colobus preussi, Colobus badius preussi",Mammals,"EN-US FWS: January 23, 1984CR-IUCN: 2008",Cameroon
+185,Preuss's Monkey,Endangered Mammals of Africa,Cercopithecus preussi,Preuss's Guenon,Mammals,EN-IUCN: 2008,"Cameroon, Equatorial Guinea (Bioko), Nigeria"
+186,Puku,Endangered Mammals of Africa,Kobus vardonii,NA,Mammals,NT-IUCN: 2008,"Angola, Botswana, Democratic Republic of Congo (Zaire), Malawi, Tanzania, Zambia"
+187,Pygmy Chimpanzee,Endangered Mammals of Africa,Pan paniscus,"Bonobo, Dwarf Chimpanzee, Gracile Chimpanzee",Mammals,"EN-US FWS: October 19, 1976EN-IUCN: 2008",Democratic Republic of Congo (Zaire)
+188,Pygmy Hippopotamus,Endangered Mammals of Africa,Choeropsis liberiensis,Hexaprotodon liberiensis,Mammals,EN-IUCN: 2008,"Cote d'Ivoire, Guinea, Liberia, Sierra Leone"
+189,Pygmy Mouse Lemur,Endangered Mammals of Africa,Microcebus myoxinus,Peters' Mouse Lemur,Mammals,"EN-US FWS: June 2, 1970",Madagascar
+190,Randrianasoli's Sportive Lemur,Endangered Mammals of Africa,Lepilemur randrianasoli,Bemaraha Sportive Lemur,Mammals,"EN-US FWS: June 2, 1970",Madagascar
+191,Ravelobe Mouse Lemur,Endangered Mammals of Africa,Microcebus ravelobensis,Golden-brown Mouse Lemur,Mammals,"EN-US FWS: June 2, 1970EN-IUCN: 2008",Madagascar
+192,Red Deer,Endangered Mammals of Africa,Cervus elaphus,"7 ssp: Bactrian D. (C. e. bactrianus), Barbary Stag (C. e. barbarus), Corsican Red D. (C. e. corsicanus), Kashmir Stag (C. e. hanglu), McNeill's D. (C. e. macneilii), Shou (C. e. wallichi), Yarkand D. (C. e. yarkandensis)",Mammals,"EN-US FWS: C. e. barbarus, C. e. hanglu, C. e. macneilii, C. e. wacllichi - June 2, 1970; C. e. bactrianus, C. e. corsicanus, C. e. yarkandensis - June 25, 1979","Afghanistan, Algeria, Bhutan, China, France, India, Morocco, Pakistan, Tunisia"
+193,Red Ruffed Lemur,Endangered Mammals of Africa,Varecia rubra,NA,Mammals,"EN-US FWS: June 2, 1970EN-IUCN: 2008",Malagasy Republic (Madagascar)
+194,Red-and-gray Mouse Lemur,Endangered Mammals of Africa,Microcebus griseorufus,NA,Mammals,"EN-US FWS: June 2, 1970",Madagascar
+195,Red-bellied Lemur,Endangered Mammals of Africa,Eulemur rubriventer,NA,Mammals,VU-IUCN: 2008,Madagascar
+196,Red-eared Nose-spotted Monkey,Endangered Mammals of Africa,Cercopithecus erythrotis,"Red-eared Guenon, Red-eared Monkey, Russet-eared Guenon",Mammals,"EN-US FWS: October 19, 1976VU-IUCN: 2008","Cameroon, Fernando Po, Nigeria"
+197,Red-fronted Gazelle,Endangered Mammals of Africa,Eudorcas rufifrons,Gazella rufifrons,Mammals,VU-IUCN: 2008,"Burkina Faso, Cameroon, Central African Republic, Chad, Eritrea, Ethiopia, Mali, Mauritania, Niger, Nigeria, Senegal, Sudan"
+198,Red-tailed Sportive Lemur,Endangered Mammals of Africa,Lepilemur ruficaudatus,Red-tailed Weasel Lemur,Mammals,"EN-US FWS: June 2, 1970",Malagasy Republic (Madagascar)
+199,Ring-tailed Lemur,Endangered Mammals of Africa,Lemur catta,NA,Mammals,"NT-IUCN: 2008EN-US FWS: June 2, 1970",Malagasy Republic (Madagascar)
+200,Riverine Rabbit,Endangered Mammals of Africa,Bunolagus monticularis,"Lepus monticularis, Bushman Hare",Mammals,CR-IUCN: 2008,"South Africa (Northern Cape Province, Western Cape Province)"
+201,Rodrigues Fruit Bat,Endangered Mammals of Africa,Pteropus rodricensis,"Rodrigues Flying Fox, Pteropus mascarinus",Mammals,"EN-US FWS: January 23, 1984CR-IUCN: 2008",Indian Ocean (Rodrigues Island)
+202,Rondo Bushbaby,Endangered Mammals of Africa,Galagoides rondoensis,"Galago rondoensis, Rondo Dwarf Galago",Mammals,CR-IUCN: 2008,Tanzania
+203,Rough-haired Golden Mole,Endangered Mammals of Africa,Chrysospalax villosus,NA,Mammals,VU-IUCN: 2008,South Africa
+204,Rumpi Mouse Shrew,Endangered Mammals of Africa,Myosorex rumpii,NA,Mammals,EN-IUCN: 2008,Cameroon
+205,Sahamalaza Sportive Lemur,Endangered Mammals of Africa,Lepilemur sahamalazensis,NA,Mammals,"EN-US FWS: June 2, 1970",Madagascar
+206,Sambar Deer,Endangered Mammals of Africa,Rusa unicolor,Cervus unicolor,Mammals,VU-IUCN: 2008,"Africa, Asia, Australia, Central America, North America (United States)"
+207,Sambirano Mouse Lemur,Endangered Mammals of Africa,Microcebus sambiranensis,NA,Mammals,"EN-US FWS: June 2, 1970EN-IUCN: 2008",Madagascar
+208,Sand Cat,Endangered Mammals of Africa,Felis margarita,"Sand Dune Cat, Pakistan Sand Cat (F. m. scheffeli) US FWS",Mammals,"NT-IUCN: 2008EN-US FWS: January 23, 1984","Africa, Asia, Europe, Middle East"
+209,Sao Tome Collared Fruit Bat,Endangered Mammals of Africa,Myonycteris brachycephala,NA,Mammals,EN-IUCN: 2008,Sao Tome and Principe
+210,Scimitar-horned Oryx,Endangered Mammals of Africa,Oryx dammah,NA,Mammals,"EN-US FWS: September 2, 2005EW-IUCN: 2008",North Africa
+211,Scott's Mouse-eared Bat,Endangered Mammals of Africa,Myotis scotti,NA,Mammals,VU-IUCN: 2008,Ethiopia
+212,Short-tailed Brush-furred Rat,Endangered Mammals of Africa,Lophuromys brevicaudus,NA,Mammals,NT-IUCN: 2008,Ethiopia
+213,Sibree's Dwarf Lemur,Endangered Mammals of Africa,Cheirogaleus sibreei,NA,Mammals,"EN-US FWS: June 2, 1970",Madagascar
+214,Silky Sifaka,Endangered Mammals of Africa,Propithecus candidus,"Propithecus diadema ssp. candidus, Silky Simpona",Mammals,CR-IUCN: 2008,Madagascar
+215,Slender-horned Gazelle,Endangered Mammals of Africa,Gazella leptoceros,Rhim,Mammals,"EN-US FWS: June 2, 1970EN-IUCN: 2008","Algeria, Egypt, Libya, Sudan"
+216,Small Iron-gray Dwarf Lemur,Endangered Mammals of Africa,Cheirogaleus minusculus,"Lesser Iron-gray Dwarf Lemur, Large Iron-gray Dwarf Lemur",Mammals,"EN-US FWS: June 2, 1970",Madagascar
+217,Small-toothed Sportive Lemur,Endangered Mammals of Africa,Lepilemur microdon,Small-toothed Weasel Lemur,Mammals,"EN-US FWS: June 2, 1970",Madagascar
+218,Sooty Mangabey,Endangered Mammals of Africa,Cercocebus atys,Red-capped Monkey,Mammals,VU-IUCN: 2008,"Burkina Faso, Cote d'Ivoire, Ghana, Guinea, Guinea-Bissau, Liberia, Senegal, Sierra Leone"
+219,Speke's Gazelle,Endangered Mammals of Africa,Gazella spekei,NA,Mammals,EN-IUCN: 2008,Somalia
+220,Straw-coloured Fruit Bat,Endangered Mammals of Africa,Eidolon helvum,Eidolon helvum ssp. sabaeum,Mammals,NT-IUCN: 2008,"Africa, Asia, Middle East"
+221,Striped Hyena,Endangered Mammals of Africa,Hyaena hyaena,"Barbary Hyena, H. h. barbara (US FWS)",Mammals,"NT-IUCN: 2008EN-US FWS: June 2, 1970","Asia, Africa, and the Middle East, Europe"
+222,Sun-tailed Monkey,Endangered Mammals of Africa,Cercopithecus solatus,Sun-tailed Guenon,Mammals,VU-IUCN: 2008,Gabon
+223,Tana River Mangabey,Endangered Mammals of Africa,Cercocebus galeritus galeritus,NA,Mammals,"EN-US FWS: June 2, 1970EN-IUCN: 2008",Kenya
+224,Tana River Red Colobus Monkey,Endangered Mammals of Africa,Procolobus rufomitratus,"Colobus rufomitratus, Colobus badius rufomitratus, Procolobus badius rufomitratus",Mammals,"EN-US FWS: June 2, 1970",Kenya
+225,Tanzanian Vlei Rat,Endangered Mammals of Africa,Otomys lacustris,NA,Mammals,VU-IUCN: 2008,"Kenya, Malawi, Tanzania, Zambia"
+226,Tanzanian Woolly Bat,Endangered Mammals of Africa,Kerivoula africana,NA,Mammals,EN-IUCN: 2008,Tanzania
+227,Temnick's Ground Pangolin,Endangered Mammals of Africa,Smutsia temminckii,"Cape pangolin, Manis temminckii",Mammals,"EN-US FWS: June 14, 1976",Africa
+228,Thomson's Gazelle,Endangered Mammals of Africa,Eudorcas thomsonii,Gazella thomsonii,Mammals,NT-IUCN: 2008,"Kenya, Tanzania"
+229,Upland Horseshoe Bat,Endangered Mammals of Africa,Rhinolophus hillorum,Hill's Horseshoe Bat,Mammals,NT-IUCN: 2009,"Cameroon, Guinea, Liberia, Nigeria"
+230,Van der Decken's Sifaka,Endangered Mammals of Africa,Propithecus deckenii,NA,Mammals,"EN-US FWS: December 2, 1970VU-IUCN: 2008",Madagascar
+231,Verreaux's Sifaka,Endangered Mammals of Africa,Propithecus verreauxi,NA,Mammals,"EN-US FWS: December 2, 1970VU-IUCN: 2008",Madagascar
+232,Vincent's Bush Squirrel,Endangered Mammals of Africa,Paraxerus vincenti,NA,Mammals,EN-IUCN: 2008,Mozambique
+233,Walia Ibex,Endangered Mammals of Africa,Capra walie,NA,Mammals,"EN-US FWS: June 2, 1970EN-IUCN: 2008",Ethiopia
+234,Weasel Lemur,Endangered Mammals of Africa,Lepilemur mustelinus,NA,Mammals,"EN-US FWS: June 2, 1970",Madagascar
+235,West African Manatee,Endangered Mammals of Africa,Trichechus senegalensis,Seacow,Mammals,VU-IUCN: 2008,Africa
+236,Western Barbastelle,Endangered Mammals of Africa,Barbastella barbastellus,NA,Mammals,NT-IUCN: 2008,"Africa, Asia, Europe"
+237,Western Giant Eland,Endangered Mammals of Africa,Taurotragus derbianus derbianus,NA,Mammals,"EN-US FWS: June 25, 1979",Senegal to Ivory Coast
+238,Western Lesser Bamboo Lemur,Endangered Mammals of Africa,Hapalemur occidentalis,"Western Gentle Lemur, Western Gray Bamboo Lemur, Sambirano Rufous Mouse Lemur, Sambirano Bamboo Lemur, H. griseus ssp. occidentalis",Mammals,"VU-IUCN: 2008EN-US FWS: June 2, 1970",Malagasy Republic (Madagascar)
+239,Western Lowland Gorilla,Endangered Mammals of Africa,Gorilla gorilla,NA,Mammals,"EN-US FWS: June 2, 1970CR-IUCN: 2008",Central and Western Africa
+240,Western Woolly Lemur,Endangered Mammals of Africa,Avahi occidentalis,"Western Avahi, Lorenz Von Liburnau's Woolly Lemur",Mammals,EN-IUCN: 2008,Madagascar
+241,White Rhinoceros,Endangered Mammals of Africa,Ceratotherium simum,"Square-lipped Rhinoceros, Northern White Rhinoceros - C. s. cottoni (US FWS)",Mammals,"NT-IUCN: 2008EN-US FWS: June 2, 1970",Africa
+242,White-collared Mangabey,Endangered Mammals of Africa,Cercocebus torquatus,"Red-capped Mangabey, Sooty Mangabey,  C. t. ssp. torquatus",Mammals,"EN-US FWS: October 19, 1976VU-IUCN: 2008","Nigeria to Gabon, Senegal to Ghana"
+243,White-footed Sportive Lemur,Endangered Mammals of Africa,Lepilemur leucopus,"White-footed Weasel Lemur, Dry-bush Weasel Lemur",Mammals,"EN-US FWS: June 2, 1970",Madagascar
+244,White-tailed Mouse,Endangered Mammals of Africa,Mystromys albicaudatus,White-tailed Rat,Mammals,EN-IUCN: 2008,"Lesotho, South Africa"
+245,White-thighed Colobus,Endangered Mammals of Africa,Colobus vellerosus,"Geoffroy's Black-and-white Colobus, White-thighed Black-and-white Colobus",Mammals,VU-IUCN: 2008,"Benin, Cote d'Ivoire, Ghana, Nigeria, Togo"
+246,White-throated Guenon,Endangered Mammals of Africa,Cercopithecus erythrogaster,"Red-bellied Monkey, Nigerian Guenon",Mammals,"EN-US FWS: October 19, 1976VU-IUCN: 2008",Western Nigeria
+247,Wimmer's Shrew,Endangered Mammals of Africa,Crocidura wimmeri,NA,Mammals,CR-IUCN: 2008,Cote d'Ivoire
+248,Yalden's Desmomys,Endangered Mammals of Africa,Desmomys yaldeni,NA,Mammals,EN-IUCN: 2008,Ethiopia
+249,Zambian Mole Rat,Endangered Mammals of Africa,Fukomys anselli,"Ansell's Mole-rat, Cryptomys anselli",Mammals,NT-IUCN: 2008,Zambia
+250,Zanzibar Red Colobus Monkey,Endangered Mammals of Africa,Procolobus kirkii,"Kirk's Red Colobus, Colobus pennantii, Colobus kirki kirki, Procolobus kirki kirki, Procolobus pennantii kirki (US FWS)",Mammals,"EN-IUCN: 2008EN-US FWS: June 2, 1970",Tanzania
+251,Zanzibar Suni,Endangered Mammals of Africa,Neotragus moschatus moschatus,Dwarf Antelope,Mammals,"EN-US FWS: June 25, 1979",Zanzibar (and nearby islands)
+252,Zebra Duiker,Endangered Mammals of Africa,Cephalophus zebra,"Banded Duiker, Zebra Antelope",Mammals,VU-IUCN: 2008,"Cote d'Ivoire, Guinea, Liberia, Sierra Leone"
+253,Ziama Horseshoe Bat,Endangered Mammals of Africa,Rhinolophus ziama,NA,Mammals,EN-IUCN: 2008,"Guinea, Liberia"
