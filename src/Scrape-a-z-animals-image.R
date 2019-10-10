@@ -1,3 +1,4 @@
+#!/usr/bin/env Rscript
 library(rvest)
 library(purrr)
 library(tidyverse)
