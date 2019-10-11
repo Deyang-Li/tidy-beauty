@@ -1,4 +1,3 @@
-#!/usr/bin/env Rscript
 library(tidyverse)
 library(purrr)
 library(glue) 
@@ -7,6 +6,7 @@ library(stringr)
 
 create.Area <- function(x) {
   area <-word(x,-1)
+  area <- substr(x, str_length("Endangered Mammals of ") + 1, str_length(x))
   pattern <- '[^a-zA-Z0-9 -]'
   area <- gsub(pattern, "", area) %>% trimws()
   return(area)
