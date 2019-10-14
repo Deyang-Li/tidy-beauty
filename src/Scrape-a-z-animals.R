@@ -39,17 +39,18 @@ for(index in 1:length(links_li)){
   Sys.sleep(1)
 }
 animals %>% write_csv("a-z-animals.csv")
-title <-
-page_title %>%
-  html_nodes('[class^="az-phobia-link"]') %>%
-  html_text()
-animal_name_df <- tibble(Name = title) 
-animal_name_df %>% write_csv("animal_name.csv")
-animals_df <- read_csv(file = "a-z-animals.csv")
-animals_df <- read_csv(file = "a-z-animals.csv") %>% 
-  rename(Index = index)
-animal_name_df <- read_csv(file = "animal_name.csv" )
-animal_name <- as.matrix(animal_name_df)
-animal_name <- as.vector(animal_name)
-a_z_annimals <- add_column(animals_df, Name = animal_name, .after = 1)
-a_z_annimals %>% write_csv("a-z-animal_name.csv")
+
+#title <-
+#page_title %>%
+#  html_nodes('[class^="az-phobia-link"]') %>%
+#  html_text()
+#animal_name_df <- tibble(Name = title) 
+#animal_name_df %>% write_csv("animal_name.csv")
+#animals_df <- read_csv(file = "a-z-animals.csv")
+#animals_df <- read_csv(file = "a-z-animals.csv") %>% 
+#  rename(Index = index)
+#animal_name_df <- read_csv(file = "animal_name.csv" )
+# <- as.matrix(animal_name_df)
+#animal_name <- as.vector(animal_name)
+#a_z_annimals <- add_column(animals_df, Name = animal_name, .after = 1)
+#a_z_annimals %>% write_csv("a-z-animal_name.csv")
