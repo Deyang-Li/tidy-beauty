@@ -7,6 +7,6 @@ This directory stores code source files.
 # data
 This directory stores scraping results, for example csv and image files.
 # chart
-This directory stores wrangling code source and results, including pdf, jpg and ipynb files.
+This directory stores processing data code source and results, including pdf, jpg and ipynb files.
 # doc
 This derectory stores documents.
